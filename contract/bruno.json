@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "reporting-contract-3",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

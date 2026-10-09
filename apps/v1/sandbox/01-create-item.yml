@@ -1,0 +1,6 @@
+info:
+  name: create 1
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/reporting-sandbox-3/1

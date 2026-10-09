@@ -1,0 +1,6 @@
+info:
+  name: list 10
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/reporting-sandbox-7/10

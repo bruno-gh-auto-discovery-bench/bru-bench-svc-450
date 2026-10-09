@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "reporting-sandbox-7",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
